@@ -1,0 +1,49 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url('../../assets/banner.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner img{
+  
+  height:250px;
+  
+  opacity: 0.5;
+  display: flex;
+}
+
+.banner h1 {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content:center;
+  margin-top: 100px;
+  color: goldenrod;
+}
+.banner p {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content:center;
+  margin-top:0px;
+  margin-bottom: 50px;
+  color:goldenrod
+}
+
+.catalogo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 20px;
+  margin-right: 20px;
+  
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

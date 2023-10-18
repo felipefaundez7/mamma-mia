@@ -1,0 +1,10 @@
+.logopizza {
+  height: 30px;
+  width: 30px; 
+  margin-right: 15px;
+}
+
+.logo span {
+  text-align: center;
+  vertical-align: middle;
+}
